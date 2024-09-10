@@ -1346,7 +1346,7 @@ const countries = [
 	{
 		name: "Sao Tome and Principe",
 		demonym: "São Toméan",
-		flag: createUrl("/4/4f/Flag_of_Sao_Tome_and_Principe.svg"),
+		flag: createUrl("/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg"),
 		iso2: "ST",
 		iso3: "STP",
 	},
